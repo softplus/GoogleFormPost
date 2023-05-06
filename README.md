@@ -4,8 +4,8 @@ Specifically for ESP-8266 and ESP32 platforms.
 
 [MIT license](LICENSE) / (c) 2023 [John Mueller](https://johnmu.com/)
 
-![Release](https://img.shields.io/github/v/release/softplus/GoogleFormPost?include_prereleases) |
-[![arduino-library-badge](https://www.ardu-badge.com/badge/GoogleFormPost.svg?)](https://www.ardu-badge.com/GoogleFormPost) |
+![Release](https://img.shields.io/github/v/release/softplus/GoogleFormPost?include_prereleases) -
+[![arduino-library-badge](https://www.ardu-badge.com/badge/GoogleFormPost.svg?)](https://www.ardu-badge.com/GoogleFormPost) -
 [![Build with PlatformIO](https://img.shields.io/badge/PlatformIO-Library-orange?)](https://platformio.org/lib/show/567/GoogleFormPost/installation)
 
 *This works with the ESP8266 Arduino platform* - https://github.com/esp8266/Arduino
