@@ -1,6 +1,6 @@
 {
     "name": "GoogleFormPost",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Append rows into Google Sheets using a form, without API or authentication.",
     "keywords": "spreadsheet, sheet, form, Google",
     "repository":
