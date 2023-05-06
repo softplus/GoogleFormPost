@@ -1,0 +1,25 @@
+{
+    "name": "GoogleFormPost",
+    "version": "0.1.0",
+    "description": "Append rows into Google Sheets using a form, without API or authentication.",
+    "keywords": "spreadsheet, sheet, form, Google",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/softplus/GoogleFormPost/"
+    },
+    "authors":
+    [
+      {
+        "name": "John Mueller",
+        "email": "softplus@gmail.com",
+        "url": "https://johnmu.com/+",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/softplus/GoogleFormPost/",
+    "dependencies": { },
+    "frameworks": "arduino",
+    "platforms": ["espressif32", "espressif8266"]
+  }
