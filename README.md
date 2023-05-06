@@ -6,7 +6,7 @@ Specifically for ESP-8266 and ESP32 platforms.
 
 ![Release](https://img.shields.io/github/v/release/softplus/GoogleFormPost?include_prereleases) -
 [![arduino-library-badge](https://www.ardu-badge.com/badge/GoogleFormPost.svg?)](https://www.ardu-badge.com/GoogleFormPost) -
-[![Build with PlatformIO](https://img.shields.io/badge/PlatformIO-Library-orange?)](https://platformio.org/lib/show/567/GoogleFormPost/installation)
+[![Build with PlatformIO](https://img.shields.io/badge/PlatformIO-Library-orange?)](https://registry.platformio.org/libraries/softplus/GoogleFormPost)
 
 *This works with the ESP8266 Arduino platform* - https://github.com/esp8266/Arduino
 
