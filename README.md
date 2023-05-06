@@ -19,12 +19,12 @@ You can either install through the Arduino Library Manager or checkout the lates
 To use this, you *must* also set up a Google Form and Spreadsheet (below).
 
 ### Install through Library Manager
-__Currently version 0.8+ works with release 2.4.0 or newer of the [ESP8266 core for Arduino](https://github.com/esp8266/Arduino)__
+__Works with release 2.4.0 or newer of the [ESP8266 core for Arduino](https://github.com/esp8266/Arduino)__
  - in Arduino IDE got to Sketch/Include Library/Manage Libraries
-  ![Manage Libraries](http://i.imgur.com/9BkEBkR.png)
+  ![Manage Libraries](http://i.imgur.com/x.png)
 
  - search for GoogleFormPost
-  ![GoogleFormPost package](http://i.imgur.com/18yIai8.png)
+  ![GoogleFormPost package](http://i.imgur.com/x.png)
 
  - click Install and start [using it](#using)
 
